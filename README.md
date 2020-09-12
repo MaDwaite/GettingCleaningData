@@ -16,6 +16,10 @@ is generated which follows each of the principles of tidy data:
 
 It then writes the tidy data set to a text file separated by tabs.
 
+In the R file, the commented steps are out of order. That is because I have
+arranged them according to how they are laid out in the instructions, which
+is not the order I followed. However, I believe the result is the same.
+
 How it works:
 
 Reads in the data using a mixture of delimiter and fixed-width format reading
